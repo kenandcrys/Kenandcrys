@@ -1,4 +1,4 @@
-<h3 align="center" fontSize="2.5rem" > Hi there and welcome to Fish's Github! </h3>
+<h3 align="center" fontSize="50px" > Hi there and welcome to Fish's Github! </h3>
 <p align="center"> <b><i>Knowledge is power, but without the wisdom to use it, that power is useless.</b></i></p>
 <!--
 **kenandcrys/Kenandcrys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
