@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<h1 align="center"> Hi there and welcome to Fish's Github! </h1>
+<p align="center"> <b><i>Knowledge is power, but without the wisdom to use it, that power is useless.</b></i></p>
 <!--
 **kenandcrys/Kenandcrys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
