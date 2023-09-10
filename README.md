@@ -1,6 +1,14 @@
-<p align="center" fontSize="50px" > Hi there and welcome to Fish's Github! </p>
+<p align="center" fontSize="50px" > Hi there and welcome to Fish's Github! </p> 
+<div>
 <p align="center"> <b><i>Knowledge is power, but without the wisdom to use it, that power is useless.</b></i></p>
-  <p align="right" margin-Right="100px" > - Fish</p>
+  <p style={{textAlign: "right"}}>- Fish</p>
+</div>
+
+
+
+
+
+  
 <!--
 **kenandcrys/Kenandcrys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
