@@ -1,11 +1,9 @@
-const style = {
-  text-align: "right",
-}
+
 
 <p align="center" fontSize="50px" > Hi there and welcome to Fish's Github! </p> 
 <div>
 <p align="center"> <b><i>Knowledge is power, but without the wisdom to use it, that power is useless.</b></i></p>
-  <p style={style}>- Fish</p>
+  <p style={{marginRight "5rem"}}>- Fish</p>
 </div>
 
 
